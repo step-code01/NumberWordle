@@ -1,6 +1,6 @@
 # Number Wordle Game: 
 
-Just like Wordle you have to get a unknown word and get 5 tries to do it, similarly 
+Just like Wordle where you have to guess a unknown word and have certain tries to do it, similarly 
 
 The game works as follows:
 - Enter a number
